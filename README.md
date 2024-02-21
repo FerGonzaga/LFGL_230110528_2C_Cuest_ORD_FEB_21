@@ -1,1 +1,1 @@
-# LFGL_230110528_2C_Cuest_ORD_FEB_21
+# En este repositorio se encuentra el examen ordinario de la materia de probabilidad y estadística con sus respectivas soluciones a cada ejercicio.
